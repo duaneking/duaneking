@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duaneking&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaneking&theme=tokyonight&layout=compact&hide=rich%20text%20format" />
+</a>
+
+### A few things about me
+
 - 🔭 I’m currently working on many projects I dont want to talk about here.
 - 🌱 I’m a daily learner, who tries to learn something new every day.
 - 👯 I’m looking to collaborate on ways to make the world better, while sharing in the success I create for others.
