@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=duaneking&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaneking&theme=tokyonight&layout=compact&hide=rich%20text%20format" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaneking&theme=tokyonight&layout=compact&hide=rich%20text%20format&langs_count=6" />
 </a>
 
 ### A few things about me
