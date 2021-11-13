@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Linkedin: Duane King](https://img.shields.io/badge/-Duane%20King-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duaneking/)](https://www.linkedin.com/in/duaneking/)
+[![Twitter: Duane King](https://img.shields.io/twitter/follow/honestduane?style=social)](https://twitter.com/honestduane)
+
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=duaneking&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
