@@ -30,6 +30,10 @@
 - Very Interested in Accessability/a11y and wants to find a more formal way to support that.
 - I'm good at changing my mind based on the available data, and that does not seem to be a skill everybody seems to have.
 
+# For Hiring Managers
+* I'm looking to get out of consulting/cohntracting so I can have the stability to support a family.
+* Please do not contact me about your electronic currency startup. I'm sick of getting contacted by groups of frat boys that do not undertand the tech.
+
 # For Recruiters
 
 Dear Recruiter,
