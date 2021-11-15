@@ -51,6 +51,6 @@ If for some reason you feel that you have an opportunity that I would be interes
 * I am a United States Citizen, and am *NOT* interested in working for any company that does not legitimatly have an american presence.
 * My name (Duane) is Irish, but often confuses people.  Please speak only english to me.
 * I only work 100% remote from my home in Seattle, WA, as I'm activly trying to protect people in my life who have compramised immune systems from Covid19.
-* I am NOT interested in contract work of any type at this time. I'm only interested in FTE roles as I'm activly truing tto stay out of consulting.
+* I am NOT interested in contract work of any type at this time. I'm only interested in FTE roles, and I'm activly trying to stay out of consulting.
 * I live in a state where a recruiter misrepresenting a job is a crime.
 * I consider anybody asking me to either relocate or time shift to a non-PST time zone be acting criminally malicius and hostile under my states laws.
