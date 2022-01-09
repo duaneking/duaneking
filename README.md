@@ -31,13 +31,15 @@
 - I'm good at changing my mind based on the available data, and that does not seem to be a skill everybody seems to have.
 
 # For Hiring Managers
-* I'm looking to get out of consulting/cohntracting so I can have the stability to support a family.
+* I'm not available.  I'm currently fully employed. I'm looking to stay out of consulting/contracting so I can have the stability to support a family.
 * Please do not contact me about your electronic currency startup. I'm sick of getting contacted by groups of frat boys that do not undertand the tech.
 
 # For Recruiters
 
 Dear Recruiter,
-  Thank you for your interest in my skills and services.
+  Thank you for your interest in my skills and services.  I'm not currently on the market as my currently employer has me fully WFH and pays me enough to keep me happy, wants me to have side gigs, wont hold my desire to have multiple streams of income againt me, and wants me to have a happy life outside of work.
+
+I do NOT have a gmail. Stop spamming people at a random gmail. Its not me. Stop telling people its me.
 
 If for some reason you feel that you have an opportunity that I would be interested in please consider the following:
 * I specialize in:
