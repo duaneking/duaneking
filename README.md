@@ -37,7 +37,7 @@
 # For Recruiters
 
 Dear Recruiter,
-  Thank you for your interest in my skills and services.  I'm not currently on the market as my currently employer has me fully WFH and pays me enough to keep me happy, wants me to have side gigs, wont hold my desire to have multiple streams of income againt me, and wants me to have a happy life outside of work.
+  Thank you for your interest in my skills and services.  I'm not currently on the market as my current employer has me fully WFH and pays me enough to keep me happy, wants me to have side gigs, wont hold my desire to have multiple streams of income againt me, and wants me to have a happy life outside of work. For the first time I have the freedom to start projects without knowing I will have to shut them down to keep my employer happy, and I'm not willing to give that up.
 
 I do NOT have a gmail. Stop spamming people at a random gmail. Its not me. Stop telling people its me.
 
