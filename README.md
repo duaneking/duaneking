@@ -31,13 +31,19 @@
 - I'm good at changing my mind based on the available data, and that does not seem to be a skill everybody seems to have.
 
 # For Hiring Managers
-* I'm not available.  I'm currently fully employed. I'm looking to stay out of consulting/contracting so I can have the stability to support a family.
-* Please do not contact me about your electronic currency startup. I'm sick of getting contacted by groups of frat boys that do not undertand the tech.
+* I'm available, but I'm looking to stay out of consulting/contracting so I can have the stability to support a family.
+* Please do not contact me about your electronic currency startup. I'm sick of getting contacted by groups of frat boys that do not undertand the tech, or about hash collisions.
 
 # For Recruiters
 
 Dear Recruiter,
-  Thank you for your interest in my skills and services.  I'm not currently on the market as my current employer has me fully WFH and pays me enough to keep me happy, wants me to have side gigs, wont hold my desire to have multiple streams of income againt me, and wants me to have a happy life outside of work. For the first time I have the freedom to start projects without knowing I will have to shut them down to keep my employer happy, and I'm not willing to give that up.
+  Thank you for your interest in my skills and services.  I'm currently on the market because my prior employer was not what I was told.
+
+I'm not interested in non-FTE roles. 
+
+I'm not interested in a commute or going to an office.
+
+I'm not interested in relocation.
 
 I do NOT have a gmail. Stop spamming people at a random gmail. Its not me. Stop telling people its me. I'm getting complaints.
 
