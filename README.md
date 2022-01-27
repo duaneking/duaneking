@@ -39,15 +39,15 @@
 Dear Recruiter,
   Thank you for your interest in my skills and services.  I'm currently on the market because my prior employer was not what I was told.
 
-I'm not interested in non-FTE roles. 
+I'm not interested in non-FTE roles. Do not ask.
 
-I'm not interested in a commute or going to an office.
+I'm not interested in a commute or going to an office. Do not ask me to commute or travel.
 
-I'm not interested in relocation oof any kind.
+I'm not interested in relocation of any kind.   Do not ask me to relocate.
 
-I'm not interested in working non-PST hours.
+I'm not interested in working non-PST hours.  Do not ask me to timeshift.
 
-I'm not interested in working over 45 hours a week.
+I'm not interested in working over 45 hours a week. The World Health Organization says working too too many hours a week is harmful to my health.
 
 I do NOT have a gmail. Stop spamming people at a random gmail. Its not me. Stop telling people its me. I'm getting complaints.
 
