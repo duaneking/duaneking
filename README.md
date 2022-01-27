@@ -13,7 +13,7 @@
 ### A few things about me
 
 - 🔭 I’m currently working on a few projects I dont want to talk about here yet.
-- 🌱 I’m a daily learner, who tries to learn something new every day. 
+- 🌱 I’m a daily learner, who tries to learn something new every day. Trying to get mmore sleep.
 - 👯 I’m looking to collaborate on ways to make the world better, while sharing in the success I create for others.
 - 🤔 I’m looking for help with learning to be a better human, engineer, and friend.
 - 💬 Ask me about my desire to stay out of consulting and contracting permanently.
@@ -43,13 +43,19 @@ I'm not interested in non-FTE roles.
 
 I'm not interested in a commute or going to an office.
 
-I'm not interested in relocation.
+I'm not interested in relocation oof any kind.
+
+I'm not interested in working non-PST hours.
+
+I'm not interested in working over 45 hours a week.
 
 I do NOT have a gmail. Stop spamming people at a random gmail. Its not me. Stop telling people its me. I'm getting complaints.
 
 If for some reason you feel that you have an opportunity that I would be interested in please consider the following:
 * I specialize in:
     * Leading Software Development Teams
+    * Helping Teams Level Up
+    * Helping Companies grow enginering orgs the right way as they scale.
     * Software Development/Writing Code
     * Distributed Systems Architecture and Design
     * REST API Development
@@ -57,12 +63,12 @@ If for some reason you feel that you have an opportunity that I would be interes
     * Continuous Delivery piplines/Helping teams gain traction.
     * Relational Databases: PostgreSQL, MySQL, Microsoft SQL Server, SQLite, etc.
     * NoSQL Databases: Redis, ElasticSearch, Cassandra, others.
-* I do *NOT* do front-end development or graphic design.
+* I do *NOT* do front-end development or graphic design.  Asking me to do them is explicitly unprofessional of you.
 * My preferred platforms are Linux, Windows, Mac, AWS, Azure, but I have code helping to power Azure from my time at MS.
 * My preferred languages are Python, C#, Rust, C, Go, but I'm a language agnostic software developer and would rather focus on using the right tool for the job.
 * I am a United States Citizen, and am *NOT* interested in working for any company that does not legitimatly have an american presence.
 * My name (Duane) is Irish, but often confuses people.  Please speak only english to me.
 * I only work 100% remote from my home in Seattle, WA, as I'm activly trying to protect people in my life who have compramised immune systems from Covid19.
-* I am NOT interested in contract work of any type at this time. I'm fully employed and I'm activly trying to stay out of consulting.
+* I am NOT interested in contract work of any type at this time. I'm activly trying to stay out of consulting.
 * I live in a state where a recruiter misrepresenting a job is a crime.
 * I consider anybody asking me to either relocate or time shift to a non-PST time zone be acting criminally malicius and hostile under my states laws.
