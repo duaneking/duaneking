@@ -13,7 +13,7 @@
 ### A few things about me
 
 - 🔭 I’m currently working on a few projects I dont want to talk about here yet.
-- 🌱 I’m a daily learner, who tries to learn something new every day. Trying to get mmore sleep.
+- 🌱 I’m a daily learner, who tries to learn something new every day. Trying to get more sleep.
 - 👯 I’m looking to collaborate on ways to make the world better, while sharing in the success I create for others.
 - 🤔 I’m looking for help with learning to be a better human, engineer, and friend.
 - 💬 Ask me about my desire to stay out of consulting and contracting permanently.
