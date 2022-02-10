@@ -28,11 +28,16 @@
 - Prefers PostgreSQL or MySQL when the requirements say we need an ACID Compliant DB.
 - Agile, Test Driven Developmment (TDD), Behavior-Driven Development (BDD), Domain Driven Design (DDD)
 - Very Interested in Accessability/a11y and wants to find a more formal way to support that.
+- Business Optimization and Business Process Optimization Consulting.
 - I'm good at changing my mind based on the available data, and that does not seem to be a skill everybody seems to have.
 
 # For Hiring Managers
-* I'm available, but I'm looking to stay out of consulting/contracting so I can have the stability to support a family.
+* I'm available, but I'm looking to have the stability to support a family.
 * Please do not contact me about your electronic currency startup. I'm sick of getting contacted by groups of frat boys that do not undertand the tech, or about hash collisions.
+
+# For Cyptographers
+* The words "plumless" and "buckeroo" both have the same crc32 hash, and will create a hash collision.
+* Web3 is a series of hash collisions, at "web scale".
 
 # For Recruiters
 
@@ -49,13 +54,14 @@ I'm not interested in working non-PST hours.  Do not ask me to timeshift.
 
 I'm not interested in working over 45 hours a week. The World Health Organization says working too too many hours a week is harmful to my health.
 
-I do NOT have a gmail. Stop spamming people at a random gmail. Its not me. Stop telling people its me. I'm getting complaints.
+I do NOT have a gmail.
 
 If for some reason you feel that you have an opportunity that I would be interested in please consider the following:
 * I specialize in:
     * Leading Software Development Teams
     * Helping Teams Level Up
     * Helping Companies grow enginering orgs the right way as they scale.
+    * Helping Companies optimize and scale through business value engine optimization.
     * Software Development/Writing Code
     * Distributed Systems Architecture and Design
     * REST API Development
@@ -63,12 +69,12 @@ If for some reason you feel that you have an opportunity that I would be interes
     * Continuous Delivery piplines/Helping teams gain traction.
     * Relational Databases: PostgreSQL, MySQL, Microsoft SQL Server, SQLite, etc.
     * NoSQL Databases: Redis, ElasticSearch, Cassandra, others.
-* I do *NOT* do front-end development or graphic design.  Asking me to do them is explicitly unprofessional of you.
+* I do *NOT* do front-end development or graphic design.  Asking me to do them is explicitly unprofessional of you. Hire A Real Artist.
 * My preferred platforms are Linux, Windows, Mac, AWS, Azure, but I have code helping to power Azure from my time at MS.
 * My preferred languages are Python, C#, Rust, C, Go, but I'm a language agnostic software developer and would rather focus on using the right tool for the job.
 * I am a United States Citizen, and am *NOT* interested in working for any company that does not legitimatly have an american presence.
-* My name (Duane) is Irish, but often confuses people.  Please speak only english to me.
+* My name (Duane) is Irish, but often confuses people.  I only understand english and process and software fluently.
 * I only work 100% remote from my home in Seattle, WA, as I'm activly trying to protect people in my life who have compramised immune systems from Covid19.
-* I am NOT interested in contract work of any type at this time. I'm activly trying to stay out of consulting.
-* I live in a state where a recruiter misrepresenting a job is a crime.
+* I am NOT interested in low paying or short term contract work at this time. I'm activly trying to stay out of consulting.
+* I live in a state where a recruiter misrepresenting a job is a crime per https://app.leg.wa.gov/RCW/default.aspx?cite=49.44.050
 * I consider anybody asking me to either relocate or time shift to a non-PST time zone be acting criminally malicius and hostile under my states laws.
