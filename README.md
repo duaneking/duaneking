@@ -74,7 +74,7 @@ If for some reason you feel that you have an opportunity that I would be interes
 * My preferred languages are Python, C#, Rust, C, Go, but I'm a language agnostic software developer and would rather focus on using the right tool for the job.
 * I am a United States Citizen, and am *NOT* interested in working for any company that does not legitimatly have an american presence.
 * My name (Duane) is Irish, but often confuses people.  I only understand english and software fluently.
-* I only work 100% remote from my home in Seattle, WA, as I'm activly trying to protect people in my life who have compramised immune systems from Covid19.
-* I am NOT interested in low paying or short term contract work at this time. I'm activly trying to stay out of consulting.
+* I only work 100% remote from my home in Seattle, WA, as I'm actively trying to protect people in my life who have compramised immune systems from Covid19.
+* I am NOT interested in low paying or short term contract work at this time. I'm actively trying to stay out of consulting.
 * I live in a state where a recruiter misrepresenting a job is a crime per https://app.leg.wa.gov/RCW/default.aspx?cite=49.44.050 and I hate that I have to link that here because it shows you the sort of people I am forced to deal with daily.
 * I consider anybody asking me to either relocate or time shift to a non-PST time zone be acting criminally malicius and hostile under my states laws.
