@@ -42,13 +42,13 @@
 # For Recruiters
 
 Dear Recruiter,
-  Thank you for your interest in my skills and services.  I'm currently on the market because my prior employer was not what I was told.
+  Thank you for your interest in my skills and services.
 
 I'm not interested in non-FTE roles. Do not ask.
 
 I'm not interested in a commute or going to an office. Do not ask me to commute or travel.
 
-I'm not interested in relocation of any kind.   Do not ask me to relocate.
+I'm not interested in relocation of any kind.  Do not ask me to relocate.
 
 I'm not interested in working non-PST hours.  Do not ask me to timeshift.
 
@@ -73,8 +73,8 @@ If for some reason you feel that you have an opportunity that I would be interes
 * My preferred platforms are Linux, Windows, Mac, AWS, Azure, but I have code helping to power Azure from my time at MS.
 * My preferred languages are Python, C#, Rust, C, Go, but I'm a language agnostic software developer and would rather focus on using the right tool for the job.
 * I am a United States Citizen, and am *NOT* interested in working for any company that does not legitimatly have an american presence.
-* My name (Duane) is Irish, but often confuses people.  I only understand english and process and software fluently.
+* My name (Duane) is Irish, but often confuses people.  I only understand english and software fluently.
 * I only work 100% remote from my home in Seattle, WA, as I'm activly trying to protect people in my life who have compramised immune systems from Covid19.
 * I am NOT interested in low paying or short term contract work at this time. I'm activly trying to stay out of consulting.
-* I live in a state where a recruiter misrepresenting a job is a crime per https://app.leg.wa.gov/RCW/default.aspx?cite=49.44.050
+* I live in a state where a recruiter misrepresenting a job is a crime per https://app.leg.wa.gov/RCW/default.aspx?cite=49.44.050 and I hate that I have to link that here because it shows you the sort of people I am forced to deal with daily.
 * I consider anybody asking me to either relocate or time shift to a non-PST time zone be acting criminally malicius and hostile under my states laws.
