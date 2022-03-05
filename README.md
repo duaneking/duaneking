@@ -32,7 +32,7 @@
 - I'm good at changing my mind based on the available data, and that does not seem to be a skill everybody seems to have.
 
 # For Hiring Managers
-* I'm available, but I'm looking to have the stability to support a family.
+* See my website and my LinkedIn for my availability.
 * Please do not contact me about your electronic currency startup. I'm sick of getting contacted by groups of frat boys that do not undertand the tech, or about hash collisions.
 
 # For Cyptographers
