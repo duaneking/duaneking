@@ -12,28 +12,39 @@
 
 ### A few things about me
 
-- 🔭 I’m currently working on a few projects I dont want to talk about here yet.
+- 🔭 I’m FULLY REMOTE from Seattle, WA (PST) working on a few projects I dont want to talk about here yet.
 - 🌱 I’m a daily learner, who tries to learn something new every day. Trying to get more sleep.
 - 👯 I’m looking to collaborate on ways to make the world better, while sharing in the success I create for others.
-- 🤔 I’m looking for help with learning to be a better human, engineer, and friend.
-- 💬 Ask me about my desire to stay out of consulting and contracting permanently.
+- 🤔 I’m looking for help with learning to be a better human, engineer, and friend.  I want more friends.
+- 💬 Ask me about my desire to stay out of consulting and contracting permanently. I feel abused by contracts and I want out.
 - 📫 How to reach me? Probably [twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.github.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=honestduane&tw_p=followbutton)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/sir/lead/principle
 - ⚡ Fun fact: Most programming languages use the same patterns to define their internals.  <!-- Ask me what they are. -->
 
 ## Skills
 
-- Distributed Systems/Rest and Web API Architecture.
-- Language Agnostic Full Stack Developer who dislikes the idea of being told to only do FE work.
+- Distributed Systems
+- Rest/GraphQL and Web API Architecture.
+- Language Agnostic Full Stack Developer who dislikes the idea of being told to only do frontend work, so stays away from the "fullstack" title.
+  - C#, Python, Java, GoLang, Rust, and C are all interesting to me.
 - Prefers PostgreSQL or MySQL when the requirements say we need an ACID Compliant DB.
 - Agile, Test Driven Developmment (TDD), Behavior-Driven Development (BDD), Domain Driven Design (DDD)
 - Very Interested in Accessability/a11y and wants to find a more formal way to support that.
+  - We live in a broken workd when it costs nearly $16,000 to buy an 80 character braile screen reader to allow a blind person to code.
+  - How would you use your companies main product while wearing a full blindfold?
+  - How would you use your companies main product while wearung ear plugs?
 - Business Optimization and Business Process Optimization Consulting.
+  - Most people dont understand tech. I do, and I have an interest in growing tech companies.
 - I'm good at changing my mind based on the available data, and that does not seem to be a skill everybody seems to have.
 
 # For Hiring Managers
-* See my website and my LinkedIn for my availability.
-* Please do not contact me about your electronic currency startup. I'm sick of getting contacted by groups of frat boys that do not undertand the tech, or about hash collisions.
+* I'm activyly looking to get out of contracting and consulting.
+* I'm 100% remote and do not look at or consider roles that require travel or commute to an office.
+  - If you expect me to come into an office, then you have unrealistic expectations.
+* Please do not contact me about your electronic currency startup.
+  - I'm sick of getting contacted by groups of frat boys that do not undertand the tech.
+  - I'm sick of people not understanding what hash collisions are.
+  - I'm sick of people running scams and abusing others due to the high technical bar required to understand that its a scam.
 
 # For Cyptographers
 * The words "plumless" and "buckeroo" both have the same crc32 hash, and will create a hash collision.
