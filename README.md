@@ -21,21 +21,24 @@
 - 😄 Pronouns: he/him/sir/lead/staff/principle
 - ⚡ Fun fact: Most programming languages use the same patterns to define their internals.
 
+## Summaery
+- I'm a long term software craftsman with T-shaped experience who's still passionate about expanding my skills as a strong team player and effective communicator.
+
 ## Skills
 
 - Distributed Systems
 - Rest/GraphQL and Web API Architecture.
-- Language Agnostic Full Stack Firmware / Operating System / Office Developer and Freelance Scientific Researcher or Consultant, as required.
-  - C#, Python, Java, GoLang, Rust, and C are all interesting to me.  I started with hardware pinouts and worked my way up the stack to write web microservices.
-  - JavaScript is generally not my first choice, but it has its uses when you need to re-live the glory days of 1990's PHP.
-- Openminded, but prefers PostgreSQL or MySQL when the requirements say we need an ACID Compliant DB.
+- Language Agnostic Full Stack, Any Platform, Principle Software Developer.
+  - C#, Python, Java, GoLang, Rust, and C are all interesting to me.  I started with hardware pinouts and worked my way up the stack to write web microservices that scale to hundreds of millions of users.
+  - JavaScript on NodeJS is generally not my first choice, but it has its uses when you need to re-live the glory days of 1990's PHP.
+- Openminded, but prefers PostgreSQL or MySQL when the requirements say we need an ACID Compliant DB as these are battle tested an I trust them.
 - Agile, Test Driven Developmment (TDD), Behavior-Driven Development (BDD), Domain Driven Design (DDD), all tools in a toolbox, and like most craftsman I know of a lot of tools. The secret is to not use a screwdriver to hammer a nail, but if you hammer the screwdriver you can carve wood. I maintain both my tools and my skills with them.
 - Very Interested in Accessability/a11y and wants to find a more formal way to support that.
   - We live in a broken world when it costs nearly $16,000 to buy an 80 character braile screen reader.
   - How would you use your companies main product while wearing a full blindfold?
   - How would you use your companies main product while wearing full ear plugs?
 - Business Optimization and Business Process Optimization Consulting.
-  - Most people dont understand tech. I do understand tech, and for that reasonI have an interest in growing tech companies.
+  - Most people dont understand tech. I do understand tech, and for that reason I have an interest in growing tech companies.
 - I'm good at changing my mind based on the available data, and that does not seem to be a skill everybody seems to have.
 
 # For Hiring Managers
@@ -46,7 +49,7 @@
 
 # For Cyptographers
 * The words "plumless" and "buckeroo" both have the same crc32 hash of 0x4ddb0c25 and will thus create a hash collision.
-* Please do not contact me about your electronic currency, web3, or blockchain startup.
+* Please do not contact me about your electronic currency, web3, or blockchain startup. I activly avoid any request that I apply to such roles.
   - I'm sick of people not understanding what hash collisions are.
   - I'm sick of people running scams and abusing others due to the high technical bar required to understand that its a scam.
   - Web3 is a scam. Any system that doesnt allow good actors to make things right is a trap. http://concerned.tech
@@ -54,24 +57,29 @@
 
 # For Recruiters
 Dear Recruiter,
-  Thank you for your interest in my skills and services.  I'm a purple squirrel, but I live in WA so I have a high bar for the recruiters that contact me. I'm not the sort to accept an undermarket rate. I'm not interested in a commute or going to an office. Do not ask me to commute or travel. I'm not interested in relocation of any kind.  Do not ask me to relocate. I'm not interested in working non-PST/PDT hours.  Do not ask me to timeshift or work non-PST/PDT hours.
+  Thank you for your interest in my skills and services.  I'm a purple squirrel, but I live in WA so I have a high bar for the recruiters that contact me.
+  - I do not talk to non-domestic recruiters due to complience rules in my state.  I cant trust them, and I assume they are just a threat actor.
+  - I'm not interested in a commute or going to an office. Do not ask me to commute or travel.
+  - I'm not interested in relocation of any kind.  Do not ask me to relocate.
+  - I'm not interested in working non-PST/PDT hours.  Do not ask me to timeshift or work non-PST/PDT hours.
+  - Rememer, you are the one reaching out to me.  You should be kind, respectful, professional, and honest. Otherwise, I will refuse to work with you.
 
-I do NOT have a gmail.
+I do NOT have a gmail.  Anybody claiming to be me at a gmail is lying.
 
-If for some reason you feel that you have an opportunity that I would be interested in anyway please consider the following:
+If for some reason you feel that you have an opportunity that I would be interested in, please consider the following:
 * I specialize in:
-    * Leading Software Development Teams and Organization with experience leading 115-200 engineers in prior roles I could not acceot promotions I was offered in due to trhe relocation requirments.
-    * Helping Teams Level Up effectivly
+    * Leading Software Development Teams and Organization with experience leading 115-200 engineers in prior roles I could not accept promotions I was offered in, due to the relocation requirments.
+    * Helping Teams Level Up effectivly to help them scale the company.
     * Helping Companies grow enginering orgs the right way as they scale.
-    * Helping Companies optimize and scale through business value engine optimization.
+    * Helping Companies optimize and scale through business value engine optimization/growth hacking.
     * Software Development/Writing Code
     * Distributed Systems Architecture and Design
     * REST and GraphQL API Development
-    * Cloud Computing: AWS, Azure, I know others but these are the ones I default to.
+    * Cloud Computing: AWS, Azure. I know others, but these are the ones I default to. I don;t use GCP unless I'm forced to because its the most expensive.
     * Continuous Delivery piplines/Helping teams gain traction.
     * Relational Databases: PostgreSQL, MySQL, Microsoft SQL Server, SQLite, etc.
     * NoSQL Databases: DynamoDB, Redis (lol), ElasticSearch, Cassandra, others.
-* I do *NOT* do front-end development or graphic design.  Asking me to do them is explicitly unprofessional of you. Hire A Real Artist and give them money for food and rent that they can then choose to spend on art supplies instead.
+* I do *NOT* do graphic design.  Asking me to do them is explicitly unprofessional of you. Hire A Real Artist and give them money for food and rent that they can then choose to spend on art supplies instead.
 * My preferred platforms are Linux, Windows, Mac, AWS, Azure, but I have code helping to power Azure from my time at MS.
 * My preferred languages are Go, Python, C#, Rust, C, Java, but I'm a language agnostic software developer and would rather focus on using the right tool for the job.
 * I am a United States Citizen, and am *NOT* interested in working for any company that does not legitimatly have an american presence in the state of WA.
