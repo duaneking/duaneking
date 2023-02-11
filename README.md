@@ -60,7 +60,7 @@
 # For Recruiters
 Dear Recruiter,
   Thank you for your interest in my skills and services.  I'm a purple squirrel who lives in [Washington](https://coderforgood.github.io/usa/Washington.html) so I have a high bar for the recruiters that contact me.
-  - I do not talk to non-domestic recruiters due to compliance rules in my state.  I cant trust them, and I assume they are just a threat actor.
+  - Since the start of the year, my state has very strict compliance rules that make it impossible to interact with non domestic recruiters and stay in compliance; I do not talk to non-domestic recruiters due to these compliance rules in my state. My government has stated that I can't trust any recruiter that doesn't follow these labor laws. And so I'm forced to assume that the recruiter attempting to not follow them is a criminal acting as a possible threat actor.
   - I'm not interested in a commute or going to an office. Do not ask me to commute or travel.
   - I'm not interested in relocation of any kind.  Do not ask me to relocate.
   - I'm not interested in working non-PST/PDT hours.  Do not ask me to time-shift or work non-PST/PDT hours.
