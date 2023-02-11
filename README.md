@@ -59,7 +59,7 @@
 
 # For Recruiters
 Dear Recruiter,
-  Thank you for your interest in my skills and services.  I'm a purple squirrel who lives in [https://coderforgood.github.io/usa/Washington.html](WA) so I have a high bar for the recruiters that contact me.
+  Thank you for your interest in my skills and services.  I'm a purple squirrel who lives in [Washington](https://coderforgood.github.io/usa/Washington.html) so I have a high bar for the recruiters that contact me.
   - I do not talk to non-domestic recruiters due to compliance rules in my state.  I cant trust them, and I assume they are just a threat actor.
   - I'm not interested in a commute or going to an office. Do not ask me to commute or travel.
   - I'm not interested in relocation of any kind.  Do not ask me to relocate.
