@@ -57,7 +57,7 @@
   - Web3 is a scam. Any system that doesn't allow good actors to make things right is a trap. http://concerned.tech
   - NFT's are a scam. It doesn't matter who owns "your" NFT if the hosting provider doesn't want the monthly expense of hosting it. And you can't change the location it's hosted at on the blockchain, so there is no way to get out of that hosting scam/trap. They will delete it as soon as its no longer profitable for them to host it, as has already happened to many: https://www.theverge.com/2021/3/25/22349242/nft-metadata-explained-art-crypto-urls-links-ipfs
 
-# For Recruiters - I'm not on the market. For my personal securty, I do not reply to recruiters based outside of the USA.
+# For Recruiters - I'm not on the market. For my personal security I do not reply to recruiters based outside of the USA.
 Dear Recruiter,
   Thank you for your interest in my skills and services.  I'm a purple squirrel who lives in [Washington](https://coderforgood.github.io/usa/Washington.html) so I have a high bar for the recruiters that contact me, but I'm not available.
   - Since the start of the year, my state has very strict compliance rules that make it impossible to interact with non domestic recruiters and stay in compliance; I do not talk to non-domestic recruiters due to these compliance rules in my state. My government has stated that I can't trust any recruiter that doesn't follow these labor laws. And so I'm forced to assume that the recruiter attempting to not follow them is a criminal acting as a possible threat.
