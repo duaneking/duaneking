@@ -18,7 +18,7 @@
 - 🤔 I’m looking for help with learning to be a better human, engineer, and friend.  I want more friends.
 - 💬 Ask me about my desire to stay out of consulting and contracting permanently.
 - 📫 How to reach me? Probably [twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.github.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=honestduane&tw_p=followbutton)
-- 😄 Pronouns: he/him/sir/lead/staff/principle
+- 😄 Pronouns: he/him/sir/lead/principle
 - ⚡ Fun fact: Most programming languages use the same patterns to define their internals.
 
 ## tldr;
@@ -34,7 +34,7 @@
   - JavaScript on NodeJS is generally not my first choice, but it has its uses when you need to re-live the glory days of 1990's PHP.
 - Open-minded, but prefers PostgreSQL or MySQL when the requirements say we need an ACID Compliant DB as these are battle tested and I trust them.
 - Agile, Test Driven Development (TDD), Behavior-Driven Development (BDD), Domain Driven Design (DDD), all tools in a toolbox, and like most craftsmen I know of a lot of tools.  The secret is to not use a screwdriver to hammer a nail, but if you hammer the screwdriver you can carve wood. I maintain both my tools and my skills with them.
-- Very Interested in Accessability/a11y and wants to find a more formal way to support that.
+- Very Interested in Accessability/a11y and wants to find a more formal way to support that.  Extremly limited by lack of access to the tools due to their cost.
   - We live in a broken world when it costs nearly $16,000 to buy an 80 character braille screen reader.
   - How would you use your companies main product while wearing a full blindfold?
   - How would you use your companies main product while wearing full ear plugs?
@@ -61,7 +61,7 @@
 Dear Recruiter,
   Thank you for your interest in my skills and services.  I'm a purple squirrel who lives in [Washington](https://coderforgood.github.io/usa/Washington.html) so I have a high bar for the recruiters that contact me, but I'm not available.
   - Since the start of the year, my state has very strict compliance rules that make it impossible to interact with non domestic recruiters and stay in compliance; I do not talk to non-domestic recruiters due to these compliance rules in my state. My government has stated that I can't trust any recruiter that doesn't follow these labor laws. And so I'm forced to assume that the recruiter attempting to not follow them is a criminal acting as a possible threat.
-  - I'm currently 100% work from home in my job. I'm not interested in a commute or going to an office. Do not ask me to commute or travel.
+  - I'm currently 100% employed and work from home in my job. I'm not interested in a commute or going to an office. Do not ask me to commute or travel.
   - I'm happy working out of my home office in Seattle. I'm not interested in relocation of any kind.  Do not ask me to relocate.
   - I'm not interested in working non-PST/PDT hours.  Anybody who contacts me and asks me to do so is a bully who is intentionally abusing people.
   - Remember, you are the one reaching out to me.  You should be kind, respectful, professional, and honest. Otherwise, you will be treated as a threat.
