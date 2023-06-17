@@ -21,27 +21,6 @@
 - 😄 Pronouns: he/him/sir/lead/principle
 - ⚡ Fun fact: Most programming languages use the same patterns to define their internals.
 
-## Work Day Journey
-
-```mermaid
-journey
-    title My typical working day
-    section Wake Up
-      Wake Up: : Me
-      Make Coffee: 7: Me, Coffee
-      Morning Routine: 5: Me, Coffee
-    section Go to Work
-      Go Downstairs: 7: Me, Coffee
-    section WFH Office Hours
-      Email/Messaging: 7: Me, Coffee, Computer, Internet, Team
-      Use Clouds (Github, Azure, AWS, etc): 7: Me, Computer, Internet, Team
-      Code: 7: Me, Coffee, Computer
-    section Stop Work
-      Go Upstairs: 5: Me
-    section Life
-      Nightly Routine: 7: Me
-```
-
 ## tldr;
 - I'm a long term software craftsman with T-shaped experience who's still passionate about expanding my skills as a strong team player and effective communicator.
 
