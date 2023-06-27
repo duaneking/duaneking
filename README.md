@@ -43,8 +43,8 @@
   - Most people don't understand tech. I do understand tech, and for that reason I have an interest in growing tech companies.
 - I'm good at changing my mind based on the available data, and that does not seem to be a skill everybody seems to have.
 
-# For Hiring Managers - No, I'm not on the market, but thanks for the interest.
-* I'm 100% remote in my current role and would never even consider other roles that require travel or commute to an office.
+# For Hiring Managers - Thanks for the interest.
+* I'm 100% remote due to family obligations and would never even consider roles that require travel or commute to an office.
   - I have others to think about.  I also found a peace and personal productivity level that I never want to lose.  I'm a better member of my team as 100% WFH.
   - A car is an expense and use of time I only used for work. My current goal is to live a "car free" life. 
   - The hours spent commuting are wasted when I could be living, and instead write better code because I'm saving that time and energy and mental resources.
@@ -57,11 +57,11 @@
   - Web3 is a scam. Any system that doesn't allow good actors to make things right is a trap. http://concerned.tech
   - NFT's are a scam. It doesn't matter who owns "your" NFT if the hosting provider doesn't want the monthly expense of hosting it. And you can't change the location it's hosted at on the blockchain, so there is no way to get out of that hosting scam/trap. They will delete it as soon as its no longer profitable for them to host it, as has already happened to many: https://www.theverge.com/2021/3/25/22349242/nft-metadata-explained-art-crypto-urls-links-ipfs
 
-# For Recruiters - I'm not on the market. For my personal security I do not reply to recruiters based outside of the USA.
+# For Recruiters - I'm on the market but want a change. For my personal security I do not reply to recruiters based outside of the USA.
 Dear Recruiter,
-  Thank you for your interest in my skills and services.  I'm a purple squirrel who lives in [Washington](https://coderforgood.github.io/usa/Washington.html) so I have a high bar for the recruiters that contact me, but I'm not available.
+  Thank you for your interest in my skills and services.  I'm a purple squirrel who lives in [Washington](https://coderforgood.github.io/usa/Washington.html) so I have a high bar for the recruiters that contact me.
   - Since the start of the year, my state has very strict compliance rules that make it impossible to interact with non domestic recruiters and stay in compliance; I do not talk to non-domestic recruiters due to these compliance rules in my state. My government has stated that I can't trust any recruiter that doesn't follow these labor laws. And so I'm forced to assume that the recruiter attempting to not follow them is a criminal acting as a possible threat.
-  - I'm currently 100% employed and work from home in my job. I'm not interested in a commute or going to an office. Do not ask me to commute or travel.
-  - I'm happy working out of my home office in Seattle. I'm not interested in relocation of any kind.  Do not ask me to relocate.
+  - I'm only "work from home" in my jobs. I'm not interested in a commute or going to an office. Do not ask me to commute or travel as its rude.
+  - I'm happy working out of my home office in Seattle. I'm not interested in relocation of any kind.  Do not ask me to relocate. Asking adss you to my "sh*t list".
   - I'm not interested in working non-PST/PDT hours.  Anybody who contacts me and asks me to do so is a bully who is intentionally abusing people.
   - Remember, you are the one reaching out to me.  You should be kind, respectful, professional, and honest. Otherwise, you will be treated as a threat.
