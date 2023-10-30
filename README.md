@@ -3,13 +3,6 @@
 [![Linkedin: Duane King](https://img.shields.io/badge/-Duane%20King-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duaneking/)](https://www.linkedin.com/in/duaneking/)
 [![Twitter: Duane King](https://img.shields.io/twitter/follow/honestduane?style=social)](https://twitter.com/honestduane)
 
-<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duaneking&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaneking&theme=tokyonight&layout=compact&hide=XML,CSS,Svelte,rich%20text%20format&langs_count=8" />
-</a>
-
 ### A few things about me
 
 - 🔭 I’m FULLY REMOTE from Seattle, WA (PST). 🚀
