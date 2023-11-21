@@ -56,5 +56,5 @@ Dear Recruiter,
   - Since the start of the year, my state has very strict compliance rules that make it impossible to interact with non domestic recruiters and stay in compliance; I do not talk to non-domestic recruiters due to these compliance rules in my state. My government has stated that I can't trust any recruiter that doesn't follow these labor laws. And so I'm forced to assume that the recruiter attempting to not follow them is a criminal acting as a possible threat.
   - I'm only "work from home" in my jobs. I'm not interested in a commute or going to an office. Do not ask me to commute or travel as its rude.
   - I'm happy working out of my home office in Seattle. I'm not interested in relocation of any kind.  Do not ask me to relocate.
-  - I'm not interested in working non-PST/PDT hours.  Anybody who contacts me and asks me to do so is a bully who is intentionally abusing people.
+  - I'm not interested in working non-PST/PDT hours.  Falsely misrepresenting a role as remote but with a specific timezone is a jailable offense in my state.
   - Remember, you are the one reaching out to me.  You should be kind, respectful, professional, and honest. Otherwise, you will be treated as a threat.
