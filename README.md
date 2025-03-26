@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with learning to be a better human, engineer, and friend.  I want more friends.
 - 💬 Ask me about my desire to stay out of consulting and contracting permanently.
 - 📫 How to reach me? Probably [twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.github.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=honestduane&tw_p=followbutton)
-- 😄 Pronouns: he/him/sir/lead/principle
+- 😄 Pronouns: he/him/sir/lead/principal
 - ⚡ Fun fact: Most programming languages use the same patterns to define their internals.
 
 ## tldr;
@@ -22,7 +22,7 @@
 - Distributed Systems
 - Web Browser Development (C++/Chromium/Blink/Ninja)
 - Rest/GraphQL and Web API Architecture
-- Language Agnostic Full Stack, Any Platform, Principle Software Developer.
+- Language Agnostic Full Stack, Any Platform, Principal Software Developer.
   - C#, Python, Java, GoLang, Rust, C++ and C are all interesting to me.
   - I started with hardware pin-outs and worked my way up the stack to write web microservices that scale to web scale.
   - JavaScript on NodeJS is generally not my first choice, but it has its uses when you need to re-live the glory days of 1990's PHP.
