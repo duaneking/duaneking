@@ -20,9 +20,10 @@
 ## Skills
 
 - Distributed Systems
+- Web Browser Development (C++/Chromium/Blink/Ninja)
 - Rest/GraphQL and Web API Architecture
 - Language Agnostic Full Stack, Any Platform, Principle Software Developer.
-  - C#, Python, Java, GoLang, Rust, and C are all interesting to me.
+  - C#, Python, Java, GoLang, Rust, C++ and C are all interesting to me.
   - I started with hardware pin-outs and worked my way up the stack to write web microservices that scale to web scale.
   - JavaScript on NodeJS is generally not my first choice, but it has its uses when you need to re-live the glory days of 1990's PHP.
 - Open-minded, but prefers PostgreSQL or MySQL when the requirements say we need an ACID Compliant DB as these are battle tested and I trust them.
@@ -41,6 +42,7 @@
   - I have others to think about.  I also found a peace and personal productivity level that I never want to lose.  I'm a better member of my team as 100% WFH.
   - A car is an expense and use of time I only used for work. My current goal is to live a "car free" life. 
   - The hours spent commuting are wasted when I could be living, and instead write better code because I'm saving that time and energy and mental resources.
+* I'm not interested in returning to an office.
 
 # For Cyptographers
 * The words "plumless" and "buckeroo" both have the same crc32 hash of 0x4ddb0c25 and will thus create a hash collision.
@@ -50,11 +52,16 @@
   - Web3 is a scam. Any system that doesn't allow good actors to make things right is a trap. http://concerned.tech
   - NFT's are a scam. It doesn't matter who owns "your" NFT if the hosting provider doesn't want the monthly expense of hosting it. And you can't change the location it's hosted at on the blockchain, so there is no way to get out of that hosting scam/trap. They will delete it as soon as its no longer profitable for them to host it, as has already happened to many: https://www.theverge.com/2021/3/25/22349242/nft-metadata-explained-art-crypto-urls-links-ipfs
 
-# For Recruiters - I'm on the market but want a change. For my personal security I do not reply to recruiters based outside of the USA.
+# For Recruiters - I'm not on the market. For my personal security I do not reply to recruiters based outside of the USA.
 Dear Recruiter,
-  Thank you for your interest in my skills and services.  I'm a purple squirrel who lives in [Washington](https://coderforgood.github.io/usa/Washington.html) so I have a high bar for the recruiters that contact me.
-  - Since the start of the year, my state has very strict compliance rules that make it impossible to interact with non domestic recruiters and stay in compliance; I do not talk to non-domestic recruiters due to these compliance rules in my state. My government has stated that I can't trust any recruiter that doesn't follow these labor laws. And so I'm forced to assume that the recruiter attempting to not follow them is a criminal acting as a possible threat.
-  - I'm only "work from home" in my jobs. I'm not interested in a commute or going to an office. Do not ask me to commute or travel as its rude.
-  - I'm happy working out of my home office in Seattle. I'm not interested in relocation of any kind.  Do not ask me to relocate.
-  - I'm not interested in working non-PST/PDT hours.  Falsely misrepresenting a role as remote but with a specific timezone is a jailable offense in my state.
-  - Remember, you are the one reaching out to me.  You should be kind, respectful, professional, and honest. Otherwise, you will be treated as a threat.
+  Thank you for your interest in my skills and services.  I'm a purple squirrel who lives in [Washington](https://coderforgood.github.io/usa/Washington.html) so I have a high bar for the recruiters that contact me. 
+  * I'm not currently available for contracts of any kind.
+    - I left consulting months ago.
+    - I no longer accept contracts and actively want my career to avoid them because they hurt your career long term.
+  * I'm in WA state and refuse to relocate or travel for any reason.
+    - WA state mandates enforcment of https://app.leg.wa.gov/rcw/default.aspx?cite=49.44.050 and I do not believe that any recruiter that would violate it is a legitimate recruiter with a legitimate opportunity.
+    - WA state mandates enforcment of https://app.leg.wa.gov/RCW/default.aspx?cite=49.58.110 and I do not believe that any recruiter that would violate it is a legitimate recruiter with a legitimate opportunity.
+    - My state has very strict compliance rules that make it impossible to interact with non-USA based recruiters and still stay in compliance with GRC so I'm forced to assume that ANY recruiter attempting to not follow them is a criminal acting as a possible threat.
+    - Asking me to relocate or commute is a complete waste of your time, so if you ask me to do this anyway I have to assume that you are asking this question maliciously.
+    - Again, I'm not available. But if I was, I'm not interested in working non-local (PST/PDT) hours.  Falsely misrepresenting a role as remote but with a specific timezone is a jailable offense in my state that I often get from people that are clearly scamming so if you see that, its probably a scam an the person asking for it is scamming, so I consider these requests to be intentionally malicious criminal behavior.
+  - Remember, you are the one reaching out to me.  You should be kind, respectful, professional, and honest. Otherwise, you will be treated as the threat you ae acting like.
