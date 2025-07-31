@@ -18,14 +18,16 @@
 - I'm a long term software craftsman with T-shaped experience who's still passionate about expanding my skills as a strong team player and effective communicator.
 
 ## Skills
-
+- Prior Fortune 50 Tech Executive.
 - Distributed Systems
+- Artificial Intelligence (Generative A.I. Large Language Models aka LLM, LLM Orchestration, LLM Agents)
 - Web Browser Development (C++/Chromium/Blink/Ninja)
 - Rest/GraphQL and Web API Architecture
 - Language Agnostic Full Stack, Any Platform, Principal Software Developer.
-  - C#, Python, Java, GoLang, Rust, C++ and C are all interesting to me.
+  - C, C++, Python, Rust, C#/DotNet, Assembly, Java, GoLang, Elixer/Erlang, SQL, JavaScipt and more are all interesting to me.
   - I started with hardware pin-outs and worked my way up the stack to write web microservices that scale to web scale.
   - JavaScript on NodeJS is generally not my first choice, but it has its uses when you need to re-live the glory days of 1990's PHP.
+  - I have prior PHP (LAMP/LAPP) experience.
 - Open-minded, but prefers PostgreSQL or MySQL when the requirements say we need an ACID Compliant DB as these are battle tested and I trust them.
 - Agile, Test Driven Development (TDD), Behavior-Driven Development (BDD), Domain Driven Design (DDD), all tools in a toolbox, and like most craftsmen I know of a lot of tools.  The secret is to not use a screwdriver to hammer a nail, but if you hammer the screwdriver you can carve wood. I maintain both my tools and my skills with them.
 - Very Interested in Accessability/a11y and wants to find a more formal way to support that.  Extremly limited by lack of access to the tools due to their cost.
@@ -43,21 +45,27 @@
   - A car is an expense and use of time I only used for work. My current goal is to live a "car free" life. 
   - The hours spent commuting are wasted when I could be living, and instead write better code because I'm saving that time and energy and mental resources.
 * I'm not interested in returning to an office.
+* I consider managers without the leadership ability to manage a fully remote team well to simply be unqualified for any type of managment role.
+* I hold myself to this higher bar.
 
 # For Cyptographers
 * The words "plumless" and "buckeroo" both have the same crc32 hash of 0x4ddb0c25 and will thus create a hash collision.
 * Please do not contact me about your electronic currency, web3, or blockchain startup. I actively avoid any request that I apply to such roles.
   - I'm sick of people not understanding what hash collisions are.
   - I'm sick of people running scams and abusing others due to the high technical bar required to understand that its a scam.
-  - Web3 is a scam. Any system that doesn't allow good actors to make things right is a trap. http://concerned.tech
+  - Web3 is a scam. Any system that doesn't allow good actors to make things right is a trap.
   - NFT's are a scam. It doesn't matter who owns "your" NFT if the hosting provider doesn't want the monthly expense of hosting it. And you can't change the location it's hosted at on the blockchain, so there is no way to get out of that hosting scam/trap. They will delete it as soon as its no longer profitable for them to host it, as has already happened to many: https://www.theverge.com/2021/3/25/22349242/nft-metadata-explained-art-crypto-urls-links-ipfs
 
-# For Recruiters - I'm not on the market. For my personal security I do not reply to recruiters based outside of the USA.
+# For Recruiters
 Dear Recruiter,
   Thank you for your interest in my skills and services.  I'm a purple squirrel who lives in [Washington](https://coderforgood.github.io/usa/Washington.html) so I have a high bar for the recruiters that contact me. 
+  * I'm not on the market.
+  * For my personal security I do not reply to recruiters based outside of the USA.
+  * The updates to section 174/174A of the USA Tax Code make it clear that Anybody who was based outside of the United States who is claiming to be a technical recruiter with an opportunity for me is lying.
   * I'm not currently available for contracts of any kind.
     - I left consulting months ago.
-    - I no longer accept contracts and actively want my career to avoid them because they hurt your career long term.
+    - I no longer accept contracts and actively want my career to avoid them.
+    - I'm fully employed and not looking.
   * I'm in WA state and refuse to relocate or travel for any reason.
     - WA state mandates enforcment of https://app.leg.wa.gov/rcw/default.aspx?cite=49.44.050 and I do not believe that any recruiter that would violate it is a legitimate recruiter with a legitimate opportunity.
     - WA state mandates enforcment of https://app.leg.wa.gov/RCW/default.aspx?cite=49.58.110 and I do not believe that any recruiter that would violate it is a legitimate recruiter with a legitimate opportunity.
