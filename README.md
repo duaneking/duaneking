@@ -52,6 +52,7 @@
 
 # For Cryptographers
 * The words "plumless" and "buckeroo" both have the same crc32 hash of 0x4ddb0c25 and will thus create a hash collision.
+* 4397328654844826923795068102505872571721883526553349659561256924505973939597593482272505698004801207988043088656411102133523080581 divides RSA-260
 * Please do not contact me about your electronic currency, web3, or blockchain startup. I actively avoid any request that I apply to such roles.
   - Hash collisions are a fundamental cryptographic property that is often misunderstood when evaluating blockchain systems.
   - I have strong concerns about systems that use technical complexity to obscure risks from users who cannot reasonably evaluate those risks themselves.
